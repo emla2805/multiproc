@@ -1,0 +1,48 @@
+Chicago
+Houston
+Philadelphia
+Phoenix
+San Antonio
+San Diego
+Dallas
+San Jose
+Austin
+Jacksonville
+Indianapolis
+San Francisco
+Columbus
+Fort Worth
+Charlotte
+Detroit
+El Paso
+Memphis
+Boston
+Seattle
+Denver
+Washington
+Nashville-Davidson
+Baltimore
+Louisville-Jefferson County
+Portland
+Oklahoma City
+Milwaukee
+Las Vegas
+Albuquerque
+Tucson
+Fresno
+Sacramento
+Long Beach
+Kansas City
+Mesa
+Virginia Beach
+Atlanta
+Colorado Springs
+Raleigh
+Omaha
+Miami
+Oakland
+Tulsa
+Minneapolis
+Cleveland
+Wichita
+ 
