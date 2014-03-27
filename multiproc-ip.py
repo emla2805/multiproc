@@ -5,7 +5,7 @@ from multiprocessing.dummy import Pool as ThreadPool
 def read_ips(file='./ips.txt'):
     """Read ips from file and return a list"""
     with open(file, 'r') as f:
-        ips = f.readlines()
+        ips = f.read().split('\n')
     return ips
 
 
