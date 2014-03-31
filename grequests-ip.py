@@ -1,5 +1,9 @@
 import grequests
+import requests
+from requests.adapters import HTTPAdapter
 
+s = requests.Session()
+s.mount('http://www.telize.com/geoip/', HTTPAdapter(max_retries=5))
 
 def read_ips(file='./ips.txt'):
     """Read ips from file and return a list"""
@@ -21,7 +25,8 @@ def print_res(r, *args, **kwargs):
 def get(urls):
     """Reduce number of parameters to the get method"""
     for url in urls:
-        yield grequests.get(url, hooks=dict(response=print_res))
+        yield grequests.get(url, session=s,
+                            hooks=dict(response=print_res))
 
 
 def main():
@@ -29,7 +34,7 @@ def main():
     ips = read_ips()
     urls = [''.join(['http://www.telize.com/geoip/', ip]) for ip in ips]
 
-    grequests.map(get(urls), size=None)
+    grequests.map(get(urls), size=10)
 
 
 if __name__ == '__main__':
