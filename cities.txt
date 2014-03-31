@@ -1,48 +1,455 @@
-Chicago
-Houston
-Philadelphia
-Phoenix
-San Antonio
-San Diego
-Dallas
-San Jose
-Austin
-Jacksonville
-Indianapolis
-San Francisco
-Columbus
-Fort Worth
-Charlotte
-Detroit
-El Paso
-Memphis
-Boston
-Seattle
-Denver
-Washington
-Nashville-Davidson
-Baltimore
-Louisville-Jefferson County
-Portland
-Oklahoma City
-Milwaukee
-Las Vegas
-Albuquerque
-Tucson
-Fresno
-Sacramento
-Long Beach
-Kansas City
-Mesa
-Virginia Beach
-Atlanta
-Colorado Springs
-Raleigh
-Omaha
-Miami
-Oakland
-Tulsa
-Minneapolis
-Cleveland
-Wichita
- 
+ Vienna
+ Bonn
+ Wolfsburg
+ Wiesbaden
+ Würzburg
+ Nuremberg
+ Reutlingen
+ Siegen
+ Regensburg
+ Pforzheim
+ Oldenburg
+ Offenbach am Main
+ Neuss
+ Münster
+ Mannheim
+ Magdeburg
+ Lübeck
+ Cologne
+ Koblenz
+ Kiel
+ Jena
+ Ingolstadt
+ Hildesheim
+ Heilbronn
+ Heidelberg
+ Hamm
+ Fürth
+ Frankfurt
+ Erfurt
+ Düsseldorf
+ Darmstadt
+ Cottbus
+ Bremerhaven
+ Braunschweig
+ Bielefeld
+ Salzburg
+ Apeldoorn
+ Amsterdam
+ Utrecht
+ Stockholm
+ Venice
+ Göttingen
+ Hagen
+ Duisburg
+ Bochum
+ Aachen
+ Solingen
+ Rotterdam
+ Rostock
+ Recklinghausen
+ Porto
+ Prague
+ Łódź
+ Pilsen
+ Kraków
+ Osnabrück
+ Nice
+ Munich
+ Milan
+ Malmö
+ Lisbon
+ London
+ Copenhagen
+ Katowice
+ Warsaw
+ Turin
+ Szeged
+ Barcelona
+ Herne
+ Limoges
+ Helsinki
+ Gothenburg
+ Gdańsk
+ Florence
+ Groningen
+ Erlangen
+ Dresden
+ Wuppertal
+ Saarbrücken
+ Remscheid
+ Paderborn
+ Oberhausen
+ Moers
+ Mönchengladbach
+ Leverkusen
+ Krefeld
+ Gelsenkirchen
+ Essen
+ Bottrop
+ Bergisch Gladbach
+ Berlin
+ Šiauliai
+ Örebro
+ Zwolle
+ Zoetermeer
+ Zielona Góra
+ Zaragoza
+ Zabrze
+ York
+ Włocławek
+ Wrocław
+ Wolverhampton
+ Witten
+ West Bromwich
+ Wałbrzych
+ Watford
+ Walsall
+ Västerås
+ Vitoria-Gasteiz
+ Villeurbanne
+ Vila Nova de Gaia
+ Vigo
+ Vicenza
+ Verona
+ Varna
+ Vantaa
+ Valladolid
+ Uppsala
+ Târgu Mureş
+ Tychy
+ Turku
+ Trieste
+ Trento
+ Tours
+ Toulon
+ Toruń
+ Torrejón de Ardoz
+ Timişoara
+ Tilburg
+ Thessaloniki
+ Terrassa
+ Terni
+ Telford
+ Tartu
+ Tarragona
+ Tarnów
+ Taranto
+ Tampere
+ Słupsk
+ Szekesfehervar
+ Szczecin
+ Swindon
+ Swansea
+ Sutton Coldfield
+ Sunderland
+ Suceava
+ Stoke-on-Trent
+ Stockport
+ Stara Zagora
+ St Helens
+ Split
+ Southend on Sea
+ Southampton
+ Sosnowiec
+ Slough
+ Siracusa
+ Sibiu
+ Sheffield
+ Seville
+ Satu Mare
+ Santander
+ Santa Coloma de Gramenet
+ Salerno
+ Salamanca
+ Saint-Étienne
+ Saint-Paul
+ Saint-Denis, Seine-Saint-Denis
+ Saint-Denis, Réunion
+ Sabadell
+ Râmnicu Vâlcea
+ Rzeszów
+ Rybnik
+ Ruda Śląska
+ Rousse
+ Rotherham
+ Reggio Emilia
+ Reading
+ Ravenna
+ Radom
+ Płock
+ Pécs
+ Preston
+ Preston
+ Prato
+ Poznań
+ Portsmouth
+ Poole
+ Plymouth
+ Plovdiv
+ Ploieşti
+ Pleven
+ Piteşti
+ Piraeus
+ Piatra Neamţ
+ Peterborough
+ Pescara
+ Perugia
+ Perpignan
+ Peristeri
+ Patras
+ Parma
+ Panevėžys
+ Pamplona
+ Palma de Mallorca
+ Palermo
+ Padua
+ Oxford
+ Oviedo
+ Ourense
+ Oulu
+ Ostrava
+ Osijek
+ Oradea
+ Opole
+ Olsztyn
+ Olomouc
+ Oldham
+ Odense
+ Nîmes
+ Nyíregyháza
+ Novara
+ Nottingham
+ Norwich
+ Northampton
+ Nijmegen
+ Nicosia
+ Newport
+ Newcastle upon Tyne
+ Namur
+ Mülheim
+ Móstoles
+ Málaga
+ Mulhouse
+ Monza
+ Montreuil
+ Modena
+ Miskolc
+ Milton Keynes
+ Middlesbrough
+ Messina
+ Mataró
+ Maribor
+ Marbella
+ Manchester
+ Luton
+ Ludwigshafen
+ Lublin
+ Logroño
+ Lleida
+ Livorno
+ Liverpool
+ Linz
+ Linköping
+ Limassol
+ Liberec
+ Leon
+ Leiden
+ Leicester
+ Legnica
+ Leganés
+ Leeds
+ Le Mans
+ Le Havre
+ Latina
+ Larissa
+ Lahti
+ L'Hospitalet
+ Košice
+ Koszalin
+ Klaipėda
+ Kingston upon Hull
+ Kielce
+ Kecskemét
+ Kaunas
+ Kallithea
+ Kalisz
+ Jyväskylä
+ Jerez de la Frontera
+ Jaén
+ Ipswich
+ Innsbruck
+ Iaşi
+ Huelva
+ Huddersfield
+ Heraklion
+ Halle (Saale)
+ Haarlem
+ Győr
+ Grenoble
+ Graz
+ Granada
+ Gorzów Wielkopolski
+ Gloucester
+ Gliwice
+ Glasgow
+ Gijón
+ Getafe
+ Gera
+ Genoa
+ Gdynia
+ Galaţi
+ Fuenlabrada
+ Freiburg
+ Forlì
+ Foggia
+ Ferrara
+ Exeter
+ Espoo
+ Enschede
+ Elbląg
+ Eindhoven
+ Edinburgh
+ Eastbourne
+ Dąbrowa Górnicza
+ Dundee
+ Dudley
+ Drobeta-Turnu Severin
+ Dos Hermanas
+ Dordrecht
+ Donostia
+ Derby
+ Debrecen
+ Daugavpils
+ Córdoba
+ Cádiz
+ Częstochowa
+ Crawley
+ Craiova
+ Coventry
+ Cork
+ Constanţa
+ Colchester
+ Coimbra
+ Cluj-Napoca
+ Chorzów
+ Charleroi
+ Catania
+ Castellon de la Plana
+ Cartagena
+ Cardiff
+ Cambridge
+ Cagliari
+ Bytom
+ Bydgoszcz
+ Buzău
+ Burgos
+ Brăila
+ Bruges
+ Brno
+ Bristol
+ Brighton & Hove
+ Brest
+ Brescia
+ Braşov
+ Braga
+ Bradford
+ Bournemouth
+ Boulogne-Billancourt
+ Botoşani
+ Bolzano
+ Bolton
+ Bologna
+ Blackpool
+ Blackburn
+ Bilbao
+ Bielsko-Biała
+ Białystok
+ Bergamo
+ Belfast
+ Bari
+ Baia Mare
+ Badalona
+ Badajoz
+ Bacău
+ Athens
+ Arnhem
+ Argenteuil
+ Arad
+ Angers
+ Ancona
+ Amersfoort
+ Amadora
+ Almere
+ Almada
+ Alicante
+ Algeciras
+ Alcorcon
+ Alcalá de Henares
+ Aix-en-Provence
+ Agualva-Cacém
+ Aberdeen
+ Aarhus
+ Aalborg
+ A Coruña
+ 's-Hertogenbosch
+ Vilnius
+ Ulm
+ Trier
+ Reggio Calabria
+ Tallinn
+ Stuttgart
+ Sofia
+ Salzgitter
+ Rijeka
+ Riga
+ Potsdam
+ Mainz
+ Leipzig
+ Kassel
+ Hanover
+ Hamburg
+ Dortmund
+ Chemnitz
+ Brussels
+ Bratislava
+ Karlsruhe
+ Budapest
+ Naples
+ Burgas
+ Bremen
+ Breda
+ Ljubljana
+ Maastricht
+ Den Haag
+ Rome
+ Toulouse
+ Montpellier
+ Lyon
+ Lille
+ Clermont-Ferrand
+ Caen
+ Besançon
+ Ghent
+ Strasbourg
+ Rouen
+ Rennes
+ Reims
+ Paris
+ Orléans
+ Nantes
+ Nancy
+ Metz
+ Marseille
+ Liège
+ Amiens
+ Dijon
+ Madrid
+ Dublin
+ Augsburg
+ Murcia
+ Valencia
+ Bordeaux
+ Bucharest
+ Birmingham
+ Antwerp
